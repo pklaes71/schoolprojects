@@ -1,0 +1,9 @@
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\bin\Debug\DraftTracker.exe.config
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\bin\Debug\DraftTracker.exe
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\bin\Debug\DraftTracker.pdb
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\obj\Debug\DraftTracker.csprojResolveAssemblyReference.cache
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\obj\Debug\DraftTracker.draftForm.resources
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\obj\Debug\DraftTracker.Properties.Resources.resources
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\obj\Debug\DraftTracker.csproj.GenerateResource.Cache
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\obj\Debug\DraftTracker.exe
+N:\spring2017\c_#\final\DraftTracker\DraftTracker\obj\Debug\DraftTracker.pdb
